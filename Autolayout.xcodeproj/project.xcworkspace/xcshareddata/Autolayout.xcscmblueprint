@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "357E02E475762279FA40A83E190765F83132F9E3",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "357E02E475762279FA40A83E190765F83132F9E3" : 0,
+    "C039F5EE824BD4AB2F249337409D8753634A35ED" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "E0528101-B852-412F-8F6D-C6E7FD958CBC",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "357E02E475762279FA40A83E190765F83132F9E3" : "Layout\/",
+    "C039F5EE824BD4AB2F249337409D8753634A35ED" : "iOS-Student-Autolayout"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Autolayout",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Autolayout.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/YasminA13\/AutoLayout.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "357E02E475762279FA40A83E190765F83132F9E3"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/lighthouse-labs\/iOS-Student-Autolayout.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C039F5EE824BD4AB2F249337409D8753634A35ED"
+    }
+  ]
+}
